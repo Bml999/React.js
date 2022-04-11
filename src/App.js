@@ -1,19 +1,19 @@
 
-import Header from './Components/Header';
-import { FeedbackData } from './Data/Feedbackdata';
-import FeedbackList from './Components/FeedbackList';
+// import Header from './Components/Header';
+// import { FeedbackData } from './Data/Feedbackdata';
+// import FeedbackList from './Components/FeedbackList';
 
-function App() {
+// function App() {
 
-  const feedback = FeedbackData;
-  console.log({FeedbackData});
-  return (
-    <>
-      <Header />
-      <FeedbackList feedback={feedback} />
-    </>
-  );
+//   const feedback = FeedbackData;
+//   console.log({FeedbackData});
+//   return (
+//     <>
+//       <Header />
+//       <FeedbackList feedback={feedback} />
+//     </>
+//   );
      
 
-}
-export default App;
+// }
+// export default App;
